@@ -25,7 +25,7 @@ Este código integra a API pública da Marvel para obter dados sobre personagens
 2. Geração do hash MD5 para autenticação.
 3. Requisição à API da Marvel para buscar dados de personagens, quadrinhos e eventos.
 4. Criação do banco de dados e inserção dos dados.
-5. Exibição dos dados utilizando Pandas.
+5. Exibição dos dados utilizando Pandas e gerado arquivos .CSV correspondentes.
 
 ## Exemplo de Saída
 
@@ -46,4 +46,4 @@ Este código integra a API pública da Marvel para obter dados sobre personagens
 
 ## Conclusão
 
-Este código realiza a integração com a API da Marvel, armazena os dados no banco de dados SQLite e os manipula usando Pandas para facilitar a análise e visualização.
+Este código realiza a integração com a API da Marvel, armazena os dados no banco de dados SQLite e os manipula usando Pandas e gerado arquivos .CSV correspondentes para facilitar a análise e visualização.
